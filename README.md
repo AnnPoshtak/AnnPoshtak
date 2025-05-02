@@ -59,6 +59,6 @@ Welcome to my GitHub profile! I'm a curious 13-year-old who loves learning how c
 - I fix bugs for fun!
 - Solving problems gives me energy and joy
 
----
+----
 
 > *Learning to code is my adventure, and I'm just getting started!*
