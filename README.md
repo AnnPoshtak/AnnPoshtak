@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Anna! 👋
 
 I'm a 14 y.o. developer from Ukraine 🇺🇦. I love algorithms, math, and breaking things to see how they work.
@@ -25,7 +24,7 @@ I'm a 14 y.o. developer from Ukraine 🇺🇦. I love algorithms, math, and brea
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnPoshtak&show_icons=true&theme=radical" alt="My Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnPoshtaklayout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnPoshtak&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
