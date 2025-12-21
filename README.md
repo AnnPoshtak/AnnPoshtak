@@ -28,5 +28,3 @@ I'm a 14 y.o. developer from Ukraine 🇺🇦. I love algorithms, math, and brea
 </p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sad1dab?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/sad1dab)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
