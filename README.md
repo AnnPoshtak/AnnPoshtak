@@ -27,4 +27,4 @@ I'm a 14 y.o. developer from Ukraine 🇺🇦. I love algorithms, math, and brea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnPoshtak&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ТВІЙ_НІК_НА_LEETCODE?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/sad1dab)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ТВІЙ_НІК_НА_LEETCODE?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
