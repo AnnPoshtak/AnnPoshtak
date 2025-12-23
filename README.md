@@ -15,4 +15,4 @@ I'm a 14 y.o. developer from Ukraine 🇺🇦. I love algorithms, math, and brea
 </p>
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sad1dab?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/sad1dab)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
