@@ -7,6 +7,6 @@ I'm a 14 y.o. developer from Ukraine 🇺🇦. I love algorithms, math, and brea
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Leetcode stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
