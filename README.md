@@ -17,7 +17,7 @@ I love solving problems and doing projects ✨
 
 **Visitors**:
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AnnPoshtak.AnnPoshtak)
 
 
 ⭐ Feel free to check out my projects  
