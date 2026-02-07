@@ -1,20 +1,27 @@
 # Hi there, I'm Anna 👋
 
-## 🤗 About me
-I'm 14 y.o developer from Ukraine 🇺🇦
-I have been programming since childhood 🖥️
-I love solving problems and doing projects ✨
+## 🤗 About Me
+Hi! I'm **Anna**, a 14 y.o developer from Ukraine 🇺🇦.  
+I've been coding since I was a kid 🖥️ and love turning ideas into projects ✨.  
+Big fan of problem-solving, learning new tech, and of course… memes 😎
 
-## 🌱 Currently working 
-- Learning React and C++
-- Working on my pet-project Cryo
-- I'm experimenting with Linux and security
----
+**Languages I know:**  
+🐍 Python | 🖥️ Bash | 💻 JavaScript  
+**Currently learning:** ⚛️ React, TypeScript & 🧩 C++  
 
-## ⭐ My stats
-**Leetcode**:
+## 🌱 Currently Learning & Building
+- ⚡ Working on my pet-project **[Cryo](https://github.com/AnnPoshtak/Cryo)** ❄️💻
+- 🐧 Experimenting with **Linux** and exploring **cybersecurity**  
+- 💡 Trying out new coding tricks and challenges
+
+## ⭐ My Stats
+**LeetCode:**  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
 
+**GitHub Stats:**  
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnPoshtak&show_icons=true&theme=dark)
+
+---
 
 ⭐ Feel free to check out my projects  
-🤝 I love code, memes, and coffee
+🤝 I love code, memes, and coffee ☕
