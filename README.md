@@ -11,11 +11,6 @@ I love solving problems and doing projects ✨
 - Learning React and C++
 - Working on my pet-project Cryo
 - I'm experimenting with Linux and security
-
-## 📫 Contact Me 
-- [Email](a.poshtak2011@gmail.com)
-- [Discord](https://discord.gg/BHvnDNxJ)
-
 ---
 
 ⭐ Feel free to check out my projects  
