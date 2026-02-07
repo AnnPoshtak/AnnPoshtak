@@ -19,7 +19,7 @@ Big fan of problem-solving, learning new tech, and of course… memes 😎
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
 
 **GitHub Stats:**  
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnPoshtak&show_icons=true&theme=dark)
+![AnnPoshtak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnPoshtak&show_icons=true&theme=dark)
 
 ---
 
