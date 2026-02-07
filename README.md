@@ -1,12 +1,22 @@
-### Hi there, I'm Anna! 👋
+# Hi there, I'm Anna 👋
 
-I'm a 14 y.o. developer. I love algorithms, math,linux and breaking things to see how they work.
+> Coding, drinking coffee, and occasionally questioning life 💻☕🌀
 
-- 🔭 **I’m currently working on:** My CLI project Cryo & Leetcode problems 
-- 🌱 **I’m currently learning:** React, Advanced Algorithms, and C++.
+## 🤗 About me
+I'm 14 y.o developer from Ukraine 🇺🇦
+I have been programming since childhood 🖥️
+I love solving problems and doing projects ✨
+
+## 🌱 Currently working 
+- Learning React and C++
+- Working on my pet-project Cryo
+- I'm experimenting with Linux and security
+
+## 📫 Contact Me 
+- [Email](a.poshtak2011@gmail.com)
+- [Discord](https://discord.gg/BHvnDNxJ)
 
 ---
 
-### 📊 Leetcode stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
+⭐ Feel free to check out my projects  
+🤝 I love code, memes, and coffee
