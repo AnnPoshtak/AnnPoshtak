@@ -15,10 +15,6 @@ I love solving problems and doing projects ✨
 **Leetcode**:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
 
-**Visitors**:
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AnnPoshtak.AnnPoshtak)
-
 
 ⭐ Feel free to check out my projects  
 🤝 I love code, memes, and coffee
