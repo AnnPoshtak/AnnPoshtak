@@ -1,7 +1,5 @@
 # Hi there, I'm Anna 👋
 
-> Coding, drinking coffee, and occasionally questioning life 💻☕🌀
-
 ## 🤗 About me
 I'm 14 y.o developer from Ukraine 🇺🇦
 I have been programming since childhood 🖥️
