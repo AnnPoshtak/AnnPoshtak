@@ -1,5 +1,3 @@
-# Hi there, I'm Anna 👋
-
 ## 🤗 About Me
 Hi! I'm **Anna**, a 14 y.o developer from Ukraine 🇺🇦.  
 I've been coding since I was a kid 🖥️ and love turning ideas into projects ✨.  
