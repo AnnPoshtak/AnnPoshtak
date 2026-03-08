@@ -16,6 +16,7 @@ Big fan of problem-solving, learning new tech, and of course… memes 😎
 **LeetCode:**  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap)](https://leetcode.com/AnnPoshtak)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnPoshtak&theme=tokyo-night" />
 ---
 
 ⭐ Feel free to check out my projects  
