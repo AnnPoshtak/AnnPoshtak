@@ -19,13 +19,13 @@ Languages I know:
 🐍 Python | 🖥️ Bash | 💻 JavaScript
 Currently learning: ⚛️ React, TypeScript & 🧩 C++
 
-🌱 Currently Learning & Building
-
-⚡ Working on my pet-project Cryo ❄️💻
+##🌱 Currently Learning & Building
 
 🐧 Experimenting with Linux and exploring cybersecurity
 
 💡 Trying out new coding tricks and challenges
+
+🔥 Learning how to build collaborative projects and work in a team 
 
 ---
 
