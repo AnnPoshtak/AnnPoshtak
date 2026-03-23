@@ -58,7 +58,7 @@ I have a bunch of different projects — experiments, ideas, and things I’ve b
   <a href="https://t.me/HackPawss">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discordapp.com/users/hackpawss">
+  <a href="https://discord.gg/wBcHJUa6">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <br>
