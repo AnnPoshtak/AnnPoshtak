@@ -19,7 +19,7 @@ Languages I know:
 🐍 Python | 🖥️ Bash | 💻 JavaScript
 Currently learning: ⚛️ React, TypeScript & 🧩 C++
 
-##🌱 Currently Learning & Building
+## 🌱 Currently Learning & Building
 
 🐧 Experimenting with Linux and exploring cybersecurity
 
