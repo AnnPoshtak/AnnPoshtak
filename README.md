@@ -43,11 +43,20 @@ I have a bunch of different projects — experiments, ideas, and things I’ve b
   <a href="https://leetcode.com/AnnPoshtak">
     <img src="https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap" alt="LeetCode Stats" />
   </a>
+
   <br><br>
-  ![Snake animation](https://github.com/AnnPoshtak/AnnPoshtak/blob/output/github-contribution-grid-snake.svg)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnPoshtak&show_icons=true&theme=tokyonight" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnPoshtak&theme=github-dark" />
+
+  <br><br>
+
+  <img src="https://github.com/AnnPoshtak/AnnPoshtak/blob/output/github-contribution-grid-snake.svg" />
 </div>
 ---
-
 ## 📫 Let's Connect!
 
 <div align="center">
