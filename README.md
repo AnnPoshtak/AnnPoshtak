@@ -44,7 +44,8 @@ I have a bunch of different projects — experiments, ideas, and things I’ve b
     <img src="https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br><br>
-  ![Snake animation](https://github.com/ТВІЙ_ЮЗЕРНЕЙМ/ТВІЙ_ЮЗЕРНЕЙМ/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AnnPoshtak/AnnPoshtak/blob/output/github-contribution-grid-snake.svg)
+</div>
 ---
 
 ## 📫 Let's Connect!
