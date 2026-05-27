@@ -18,6 +18,7 @@ I enjoy understanding how things work under the hood and turning ideas into real
   </a>
 </div>
 ---
+
 ## 📫 Let's Connect!
 
 <div align="center">
