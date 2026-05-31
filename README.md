@@ -5,8 +5,14 @@
 
 ---
 
-I build things — sometimes small, sometimes ambitious, sometimes broken (but fixed later).  
-I enjoy understanding how things work under the hood and turning ideas into real projects.
+For me, programming is more than just lines of code — it’s a passion, a lifestyle, and my biggest dream for the future. AI might generate syntax, but it can never replace human intuition, true curiosity, and the soul we put into building things. We don't just write code; we create the future.
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwind,nestjs,postgres,docker,bash,linux,cpp" />
+</div>
 
 ---
 
@@ -17,6 +23,7 @@ I enjoy understanding how things work under the hood and turning ideas into real
     <img src="https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
+
 ---
 
 ## 📫 Let's Connect!
@@ -28,10 +35,10 @@ I enjoy understanding how things work under the hood and turning ideas into real
   <a href="https://t.me/AnnPoshtak">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discord.gg/wBcHJUa6">
+  <a href="https://discord.gg/T2J7haxe">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <br>
+  <br><br>
   <p><i>(P.S. If you message me, please mention that you found me on GitHub! 🐙)</i></p>
 </div>
 
