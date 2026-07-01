@@ -4,6 +4,7 @@
 </div>
 
 ---
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="170">
 
 For me, programming is more than just lines of code — it’s a passion, a lifestyle, and my biggest dream for the future. AI might generate syntax, but it can never replace human intuition, true curiosity, and the soul we put into building things. We don't just write code; we create the future.
 
