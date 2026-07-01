@@ -26,6 +26,7 @@ For me, programming is more than just lines of code — it’s a passion, a life
 </div>
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=AnnPoshtak)
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=AnnPoshtak&theme=tokyonight)
 
 ---
 
