@@ -23,10 +23,6 @@ For me, programming is more than just lines of code — it’s a passion, a life
   <a href="https://leetcode.com/AnnPoshtak">
     <img src="https://leetcard.jacoblin.cool/AnnPoshtak?theme=dark&font=Inconsolata&ext=heatmap" alt="LeetCode Stats" />
   </a>
-  
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=AnnPoshtak)
-</div>
-
 
 ---
 
