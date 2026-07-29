@@ -12,7 +12,7 @@ For me, programming is more than just lines of code — it’s a passion, a life
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,nestjs,postgres,docker,bash,linux,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,nestjs,postgres,docker,bash,linux" />
 </div>
 
 ---
