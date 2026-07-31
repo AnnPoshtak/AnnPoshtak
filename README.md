@@ -13,7 +13,7 @@ For me, programming is more than just lines of code — it’s a passion, a life
 
 - 🦊 **[ReadyFox](https://github.com/AnnPoshtak/ReadyFox)** `In Development` — Interactive learning platform (Kahoot alternative) designed specifically for Ukrainian educational institutions.
 - ❄️ **[Cryo](https://github.com/AnnPoshtak/Cryo)** `Beta / Stable` — Linux CLI utility designed for freezing and managing system processes
-- - ⚙️ **[Syscall Society](https://annposhtak.github.io/Syscall-Society/)** `Community` — Ukrainian Discord community dedicated to system programming (OS Dev, Embedded, Engine Dev, Compilers, C/C++/Rust/Zig).
+- ⚙️ **[Syscall Society](https://annposhtak.github.io/Syscall-Society/)** `Community` — Ukrainian Discord community dedicated to system programming (OS Dev, Embedded, Engine Dev, Compilers, C/C++/Rust/Zig).
 ---
 
 ## 🛠️ Tech Stack & Tools
