@@ -30,9 +30,9 @@ Young and progressive developer focused on fullstack web and low-level systems e
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnPoshtak&show_icons=true&theme=github_dark&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnPoshtak&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/AnnPoshtak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnPoshtak&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+</a>
 
 </div>
 
